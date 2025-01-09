@@ -1,4 +1,4 @@
-package David.Week1;
+package Weekly_Tasks.Week01;
 
 public class Task1_ddOrEven {
 
