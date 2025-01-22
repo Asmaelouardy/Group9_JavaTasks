@@ -7,6 +7,7 @@ public class Task1_oddOrEven {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the numbers");
         int n = scanner.nextInt();
+
         if(n%2==0){
             System.out.println("even");
         }else if (n%2!=0){
