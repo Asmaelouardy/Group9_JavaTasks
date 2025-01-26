@@ -1,6 +1,6 @@
 package MohammedAlsaadi.Week3;
 
-public class SwappingNumbers {
+public class SwappingVales {
     public static void main(String[] args) {
         int a = 5;
         int b = 3;
