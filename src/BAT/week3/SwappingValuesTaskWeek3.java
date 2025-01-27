@@ -1,4 +1,4 @@
-package BAT;
+package BAT.week3;
 
 public class SwappingValuesTaskWeek3 {
     public static void main(String[] args) {
