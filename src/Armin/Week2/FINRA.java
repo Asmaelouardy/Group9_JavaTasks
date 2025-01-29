@@ -2,9 +2,7 @@ package Armin.Week2;
 
 public class FINRA {
 
-
-
-        public static void main(String[] args) {
+    public static void main(String[] args) {
 
             FINRA();
         }
@@ -26,8 +24,6 @@ public class FINRA {
             }
 
         }
-
-
 
 //Write a method which prints out the numbers from 1 to 30 but for numbers which are a multiple of 3,
 //print "FIN" instead of the number and
