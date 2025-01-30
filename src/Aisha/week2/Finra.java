@@ -8,7 +8,7 @@ public class Finra {
 
     public static void FINRA (){
         for (int a=1; a <= 30; a++){
-            if (a % 3 == 0 & a % 5 == 0){
+            if (a % 3 == 0 && a % 5 == 0){
                 System.out.println("FINRA");
             } else if(a % 3 == 0){
                 System.out.println("FIN");
