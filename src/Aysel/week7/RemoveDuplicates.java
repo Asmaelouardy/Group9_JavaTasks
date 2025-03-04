@@ -1,4 +1,4 @@
-package Aysel.week_6;
+package Aysel.week7;
 
 public class RemoveDuplicates {
 
