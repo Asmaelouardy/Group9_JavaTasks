@@ -1,4 +1,4 @@
-package Aysel.week06;
+package Aysel.week05;
 
 import java.util.HashMap;
 import java.util.Map;
